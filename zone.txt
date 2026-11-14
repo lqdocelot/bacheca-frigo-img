@@ -1,0 +1,56 @@
+versione 1794674001
+zona 1 0 212 600 302 vai 4
+zona 1 0 406 600 698 vai 3
+zona 1 0 708 134 764 vai 1
+zona 1 134 708 244 764 vai 4
+zona 1 244 708 354 764 vai 5
+zona 1 354 708 464 764 vai 3
+zona 1 464 708 600 764 vai 2
+zona 2 0 708 134 764 vai 1
+zona 2 134 708 244 764 vai 4
+zona 2 244 708 354 764 vai 5
+zona 2 354 708 464 764 vai 3
+zona 2 464 708 600 764 vai 2
+zona 3 0 708 134 764 vai 1
+zona 3 134 708 244 764 vai 4
+zona 3 244 708 354 764 vai 5
+zona 3 354 708 464 764 vai 3
+zona 3 464 708 600 764 vai 2
+zona 4 24 128 190 186 cmd soggiorno_caldo
+zona 4 198 128 364 186 cmd soggiorno_freddo
+zona 4 24 194 190 252 cmd soggiorno_deumid
+zona 4 198 194 364 252 cmd soggiorno_ventola
+zona 4 376 128 472 186 cmd soggiorno_meno
+zona 4 480 128 576 186 cmd soggiorno_piu
+zona 4 376 194 576 252 cmd soggiorno_spento
+zona 4 24 320 190 378 cmd eva_caldo
+zona 4 198 320 364 378 cmd eva_freddo
+zona 4 24 386 190 444 cmd eva_deumid
+zona 4 198 386 364 444 cmd eva_ventola
+zona 4 376 320 472 378 cmd eva_meno
+zona 4 480 320 576 378 cmd eva_piu
+zona 4 376 386 576 444 cmd eva_spento
+zona 4 24 492 294 550 cmd tutto_caldo
+zona 4 306 492 576 550 cmd tutto_spento
+zona 4 0 708 134 764 vai 1
+zona 4 134 708 244 764 vai 4
+zona 4 244 708 354 764 vai 5
+zona 4 354 708 464 764 vai 3
+zona 4 464 708 600 764 vai 2
+zona 5 24 132 296 190 cmd robot_r17878047
+zona 5 304 132 576 190 cmd robot_r17871987
+zona 5 24 230 202 288 cmd robot_s1
+zona 5 210 230 389 288 cmd robot_s2
+zona 5 397 230 576 288 cmd robot_s3
+zona 5 24 300 296 358 cmd robot_pausa
+zona 5 304 300 576 358 cmd robot_base
+zona 5 0 708 134 764 vai 1
+zona 5 134 708 244 764 vai 4
+zona 5 244 708 354 764 vai 5
+zona 5 354 708 464 764 vai 3
+zona 5 464 708 600 764 vai 2
+testo 4 2 4 soggiorno
+testo 4 2 12 eva
+testo 4 2 27 esito
+testo 5 2 3 robot
+testo 5 2 27 esito
